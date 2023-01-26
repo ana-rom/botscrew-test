@@ -1,0 +1,11 @@
+Welcome to BotsCrewUniversity, mate!
+This is a simple app where you can find some information about departments and lectors.
+List of departments: Math, IT.
+Use commands below:
+- who is head of the department {department_name}
+- show statistics of the department {department_name}
+- show the average salary for the department {department_name}
+- show count of employee for the department {department_name}
+- global search by {template}
+
+Enjoy!

@@ -1,0 +1,18 @@
+INSERT INTO lectors (degree, lector_name, salary) VALUES ('ASSISTANT', 'Ivan Dobryi', 300);
+INSERT INTO lectors (degree, lector_name, salary) VALUES ('ASSISTANT', 'Petro Ivanov', 350);
+INSERT INTO lectors (degree, lector_name, salary) VALUES ('ASSISTANT', 'Marfa Petrovich', 520);
+INSERT INTO lectors (degree, lector_name, salary) VALUES ('ASSISTANT', 'Oleg Markovich', 600);
+INSERT INTO lectors (degree, lector_name, salary) VALUES ('ASSISTANT', 'Mavka Olegovna', 640);
+INSERT INTO lectors (degree, lector_name, salary) VALUES ('ASSISTANT', 'Assistant', 300);
+INSERT INTO lectors (degree, lector_name, salary) VALUES ('ASSOCIATE_PROFESSOR', 'Associate professor', 700);
+INSERT INTO lectors (degree, lector_name, salary) VALUES ('PROFESSOR', 'Professor', 1000);
+INSERT INTO departments (department_name, head_of_department_name) VALUES ('Math', 'Bob');
+INSERT INTO departments (department_name, head_of_department_name) VALUES ('IT', 'Alice');
+INSERT INTO departments_lectors (department_id, lector_id) VALUES (1, 1);
+INSERT INTO departments_lectors (department_id, lector_id) VALUES (1, 2);
+INSERT INTO departments_lectors (department_id, lector_id) VALUES (1, 3);
+INSERT INTO departments_lectors (department_id, lector_id) VALUES (1, 4);
+INSERT INTO departments_lectors (department_id, lector_id) VALUES (1, 5);
+INSERT INTO departments_lectors (department_id, lector_id) VALUES (2, 6);
+INSERT INTO departments_lectors (department_id, lector_id) VALUES (2, 7);
+INSERT INTO departments_lectors (department_id, lector_id) VALUES (2, 8);
